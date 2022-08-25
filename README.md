@@ -15,6 +15,6 @@
   
   
   
-
+<img src="bg.gif" width="800" height="400"/>
 
 
